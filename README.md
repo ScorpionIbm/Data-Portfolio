@@ -8,7 +8,9 @@ It's a little bit rough and is always a work in progress so bear with me through
     * BikeShare: This project represents a mini program written in **Python** to provide data analysis for data on a bikesharing service in the United States.
     * Twitter wrangling project: This projects shows the skills to use the **Twitter API** through **Python** to retrieve tweet data from a username by ID and use it in the analysis of dog ratings provided by the account. 
 2. Advanced Data Analysis:
-    * as
+    * Investigate a dataset (Gun Data):
+    * A/B testing:
+    * Communicate Data findings (Loan Data):
 3. Machine Learning:
     * Train ML models and compare:
 4. Data Engineering (In progress):
