@@ -12,7 +12,7 @@ It's a little bit rough and is always a work in progress so bear with me through
     * A/B testing:
     * Communicate Data findings (Loan Data):
 3. Machine Learning:
-    * Train ML models and compare:
+    * Train **ML** models and compare:
 4. Data Engineering (In progress):
     * SQL database ETL: use **Python** in tandem with an **PostgreSQL** driver to perform the ETL process using **SQL** 
     * Apache Cassandra ETL: use the **Apache Cassandra** driver for **Python** to perform the ETL process using **CQL** 
