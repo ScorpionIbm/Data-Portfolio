@@ -20,6 +20,6 @@ It's a little bit rough and is always a work in progress so bear with me through
     * Data Gathering from multiple data sources and reports.
     * Consolidating multiple portfolios in a single report.
     * Creating multiple dimensions for analysis (Geography, Industry, Risk Rating…)
-6. Data cleaning and analysis for GSMArena database from Kaggle (**PowerBI**):
+6. Data cleaning and analysis for GSMArena database from Kaggle (**PowerBI**, In progress):
     * Device segmentation by type (phone, tablet, watch)
     * Analyzing market trends for phones in multiple dimensions (price, screen, battery…).
