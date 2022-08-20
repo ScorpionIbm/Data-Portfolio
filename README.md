@@ -16,10 +16,10 @@ It's a little bit rough and is always a work in progress so bear with me through
 4. Data Engineering (In progress):
     * SQL database ETL: use **Python** in tandem with an **PostgreSQL** driver to perform the ETL process using **SQL** 
     * Apache Cassandra ETL: use the **Apache Cassandra** driver for **Python** to perform the ETL process using **CQL** 
-5. Data Modelling for the credit portfolio of the National Bank of Egypt (PowerPivot/PowerBI):
+5. Data Modelling for the credit portfolio of the National Bank of Egypt (**PowerPivot/PowerBI**):
     * Data Gathering from multiple data sources and reports.
     * Consolidating multiple portfolios in a single report.
     * Creating multiple dimensions for analysis (Geography, Industry, Risk Rating…)
-6. Data cleaning and analysis for GSMArena database from Kaggle (PowerBI):
+6. Data cleaning and analysis for GSMArena database from Kaggle (**PowerBI**):
     * Device segmentation by type (phone, tablet, watch)
     * Analyzing market trends for phones in multiple dimensions (price, screen, battery…).
